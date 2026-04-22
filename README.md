@@ -25,10 +25,7 @@ BeatWave is a Flutter-based music player application that allows users to play M
 
 ## 📱 Screenshots
 
-<!-- Add your app screenshots here -->
-<!-- Example:
-![Home Screen](screenshots/home.png)
--->
+![image alt](https://github.com/ChamikaRajaguru/BeatWave-Player/blob/568c97f9a2648668c0a406eeaa489f72491343d4/1.jpeg)
 
 ---
 
